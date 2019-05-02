@@ -1,24 +1,12 @@
-# README
+# Building a Css Framework 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a micro reddit app in rails. In a minimal state with models and relationships.
 
-Things you may want to cover:
+[Click here to see a Demo built with Rain-css](https://SunnyAsar.github.io/micro-reddit)
 
-* Ruby version
+## Contributors
 
-* System dependencies
+[**Henry Tabima**](https://github.com/HenryTabima)
 
-* Configuration
+[**Sunny Asar**](https://github.com/SunnyAsar)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
