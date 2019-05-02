@@ -1,24 +1,10 @@
-# README
+# Building a micro reddit
+This is a micro reddit app in rails. In a minimal state with models and relationships.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Contributors
 
-* Ruby version
+[**Henry Tabima**](https://github.com/HenryTabima)
 
-* System dependencies
+[**Sunny Asar**](https://github.com/SunnyAsar)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
